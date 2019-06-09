@@ -1,2 +1,7 @@
 Git is the skill of code.
-git is & office
+<<<<<<< HEAD
+git is and office
+=======
+Git,this is dev branch.
+git is and office
+>>>>>>> dev
